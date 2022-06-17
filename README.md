@@ -1,0 +1,1 @@
+# Patika-Mini-Store

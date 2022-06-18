@@ -1,4 +1,4 @@
-# Patika-Mini-Store
+# Patika-Mini-Store with React-Native
 
 /* Patika Store First App */
 
